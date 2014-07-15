@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BangBangSwiftLearn/DictionaryLearn.swift"
+            timestampString = "426663120.496887"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "DictionaryLearn"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BangBangSwiftLearn.DictionaryLearn.airports.getter : Swift.Dictionary&lt;Swift.String, Swift.String&gt;"
+                  moduleName = "BangBangSwiftLearn"
+                  urlString = "file:///Users/xiaoc/work/iosworkspace/SwiftLearn/BangBangSwiftLearn/BangBangSwiftLearn/BangBangSwiftLearn/DictionaryLearn.swift"
+                  timestampString = "427110683.70404"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BangBangSwiftLearn.DictionaryLearn.airports.setter : Swift.Dictionary&lt;Swift.String, Swift.String&gt;"
+                  moduleName = "BangBangSwiftLearn"
+                  urlString = "file:///Users/xiaoc/work/iosworkspace/SwiftLearn/BangBangSwiftLearn/BangBangSwiftLearn/BangBangSwiftLearn/DictionaryLearn.swift"
+                  timestampString = "427110683.704211"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BangBangSwiftLearn.DictionaryLearn.init (BangBangSwiftLearn.DictionaryLearn.Type)() -&gt; BangBangSwiftLearn.DictionaryLearn"
+                  moduleName = "BangBangSwiftLearn"
+                  urlString = "file:///Users/xiaoc/work/iosworkspace/SwiftLearn/BangBangSwiftLearn/BangBangSwiftLearn/BangBangSwiftLearn/DictionaryLearn.swift"
+                  timestampString = "427110683.704333"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BangBangSwiftLearn/EnumLearn.swift"
+            timestampString = "427012750.328817"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "enumSwitch()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
